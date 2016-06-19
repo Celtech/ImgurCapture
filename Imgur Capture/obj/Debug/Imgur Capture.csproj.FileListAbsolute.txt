@@ -1,0 +1,9 @@
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\bin\Debug\Imgur Capture.exe.config
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\bin\Debug\Imgur Capture.exe
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\bin\Debug\Imgur Capture.pdb
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\obj\Debug\Imgur Capture.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\obj\Debug\Imgur_Capture.Form1.resources
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\obj\Debug\Imgur_Capture.Properties.Resources.resources
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\obj\Debug\Imgur Capture.csproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\obj\Debug\Imgur Capture.exe
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\obj\Debug\Imgur Capture.pdb

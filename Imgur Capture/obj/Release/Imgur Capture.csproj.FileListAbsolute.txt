@@ -1,0 +1,48 @@
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\bin\Release\Imgur Capture.exe.config
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\bin\Release\Imgur Capture.exe
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\bin\Release\Imgur Capture.pdb
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\obj\Release\Imgur_Capture.Form1.resources
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\obj\Release\Imgur_Capture.Properties.Resources.resources
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.csproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.exe
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.pdb
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\Imgur Capture\Imgur Capture\obj\Release\Imgur_Capture.Settings.resources
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\Imgur Capture.exe.config
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.exe
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.pdb
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\Imgur Capture.exe
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\Imgur Capture.pdb
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.csprojResolveAssemblyReference.cache
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur_Capture.Form1.resources
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur_Capture.Properties.Resources.resources
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur_Capture.Settings.resources
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.csproj.GenerateResource.Cache
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\mscorlib.dll
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\normidna.nlp
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\normnfc.nlp
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\normnfd.nlp
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\normnfkc.nlp
+A:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\normnfkd.nlp
+D:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\Imgur Capture.exe.config
+D:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.exe
+D:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.pdb
+D:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\Imgur Capture.exe
+D:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\Imgur Capture.pdb
+D:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.csprojResolveAssemblyReference.cache
+D:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur_Capture.Properties.Resources.resources
+D:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur_Capture.Settings.resources
+D:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.csproj.GenerateResource.Cache
+D:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur_Capture.Capture.resources
+D:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur_Capture.Main.resources
+E:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\Imgur Capture.exe.config
+E:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.exe
+E:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.pdb
+E:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\Imgur Capture.exe
+E:\Projects\Programming\C#\Imgur Capture\Imgur Capture\bin\Release\Imgur Capture.pdb
+E:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.csprojResolveAssemblyReference.cache
+E:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur_Capture.Capture.resources
+E:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur_Capture.Main.resources
+E:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur_Capture.Properties.Resources.resources
+E:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur_Capture.Settings.resources
+E:\Projects\Programming\C#\Imgur Capture\Imgur Capture\obj\Release\Imgur Capture.csproj.GenerateResource.Cache
